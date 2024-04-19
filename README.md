@@ -1,1 +1,2 @@
 "# KyasTrader" 
+The old plugin for the Demiron server is minecraft version 1.18. The plugin creates at a certain time of the week, in a certain place, a resident who sells beets for quartz, and buys it, the price is set through the random function, so that the sale price is always less than the purchase price. A resident created the illusion of investments on the server, one week he bought 1 beetroot for 10 quartz, and the next he sold it for 15.

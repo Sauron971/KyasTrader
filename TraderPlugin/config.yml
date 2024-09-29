@@ -1,0 +1,12 @@
+#время с
+time_from: 3.00
+#время до
+time_to: 4.00
+
+DayOfWeek: SATURDAY
+#место появления торговца
+world: world
+location: 
+    x: 0
+    y: 0
+    z: 0

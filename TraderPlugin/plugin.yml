@@ -1,0 +1,4 @@
+name: TraderKyas
+api-version: 1.18
+main: TraderKyas.Main
+version: 1.0
